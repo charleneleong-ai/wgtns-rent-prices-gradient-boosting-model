@@ -1,0 +1,705 @@
+,Month,Region,Number of Building Consents
+0,1/03/2008,Auckland Region,7999
+1,1/06/2008,Auckland Region,8327
+2,1/09/2008,Auckland Region,6046
+3,1/12/2008,Auckland Region,5577
+4,1/03/2009,Auckland Region,5476
+5,1/06/2009,Auckland Region,6141
+6,1/09/2009,Auckland Region,5990
+7,1/12/2009,Auckland Region,6428
+8,1/03/2010,Auckland Region,6259
+9,1/06/2010,Auckland Region,6532
+10,1/09/2010,Auckland Region,6460
+11,1/12/2010,Auckland Region,5862
+12,1/03/2011,Auckland Region,5747
+13,1/06/2011,Auckland Region,5799
+14,1/09/2011,Auckland Region,6585
+15,1/12/2011,Auckland Region,6980
+16,1/03/2012,Auckland Region,6739
+17,1/06/2012,Auckland Region,6718
+18,1/09/2012,Auckland Region,7541
+19,1/12/2012,Auckland Region,7764
+20,1/03/2013,Auckland Region,7336
+21,1/06/2013,Auckland Region,8949
+22,1/09/2013,Auckland Region,9063
+23,1/12/2013,Auckland Region,10401
+24,1/03/2014,Auckland Region,8319
+25,1/06/2014,Auckland Region,10644
+26,1/09/2014,Auckland Region,10917
+27,1/12/2014,Auckland Region,11456
+28,1/03/2015,Auckland Region,9624
+29,1/06/2015,Auckland Region,11404
+30,1/09/2015,Auckland Region,12421
+31,1/12/2015,Auckland Region,13121
+32,1/03/2016,Auckland Region,10639
+33,1/06/2016,Auckland Region,12019
+34,1/09/2016,Auckland Region,13959
+35,1/12/2016,Auckland Region,12888
+36,1/03/2017,Auckland Region,11033
+37,1/06/2017,Auckland Region,11465
+38,1/09/2017,Auckland Region,13791
+39,1/12/2017,Auckland Region,15050
+40,1/03/2018,Auckland Region,12320
+41,1/06/2018,Auckland Region,13975
+42,1/09/2018,Auckland Region,14234
+43,1/12/2018,Auckland Region,14490
+0,1/03/2008,Bay of Plenty Region,2419
+1,1/06/2008,Bay of Plenty Region,1989
+2,1/09/2008,Bay of Plenty Region,2460
+3,1/12/2008,Bay of Plenty Region,2062
+4,1/03/2009,Bay of Plenty Region,1413
+5,1/06/2009,Bay of Plenty Region,2068
+6,1/09/2009,Bay of Plenty Region,1905
+7,1/12/2009,Bay of Plenty Region,2080
+8,1/03/2010,Bay of Plenty Region,1925
+9,1/06/2010,Bay of Plenty Region,2331
+10,1/09/2010,Bay of Plenty Region,3399
+11,1/12/2010,Bay of Plenty Region,2326
+12,1/03/2011,Bay of Plenty Region,1822
+13,1/06/2011,Bay of Plenty Region,2457
+14,1/09/2011,Bay of Plenty Region,2345
+15,1/12/2011,Bay of Plenty Region,1869
+16,1/03/2012,Bay of Plenty Region,1650
+17,1/06/2012,Bay of Plenty Region,1664
+18,1/09/2012,Bay of Plenty Region,1896
+19,1/12/2012,Bay of Plenty Region,2018
+20,1/03/2013,Bay of Plenty Region,1575
+21,1/06/2013,Bay of Plenty Region,1914
+22,1/09/2013,Bay of Plenty Region,2093
+23,1/12/2013,Bay of Plenty Region,1972
+24,1/03/2014,Bay of Plenty Region,1936
+25,1/06/2014,Bay of Plenty Region,2062
+26,1/09/2014,Bay of Plenty Region,2117
+27,1/12/2014,Bay of Plenty Region,2069
+28,1/03/2015,Bay of Plenty Region,1876
+29,1/06/2015,Bay of Plenty Region,2219
+30,1/09/2015,Bay of Plenty Region,2552
+31,1/12/2015,Bay of Plenty Region,2965
+32,1/03/2016,Bay of Plenty Region,2612
+33,1/06/2016,Bay of Plenty Region,3213
+34,1/09/2016,Bay of Plenty Region,3178
+35,1/12/2016,Bay of Plenty Region,3008
+36,1/03/2017,Bay of Plenty Region,2779
+37,1/06/2017,Bay of Plenty Region,2926
+38,1/09/2017,Bay of Plenty Region,3421
+39,1/12/2017,Bay of Plenty Region,2814
+40,1/03/2018,Bay of Plenty Region,2391
+41,1/06/2018,Bay of Plenty Region,2764
+42,1/09/2018,Bay of Plenty Region,2788
+43,1/12/2018,Bay of Plenty Region,2813
+0,1/03/2008,Canterbury Region,4421
+1,1/06/2008,Canterbury Region,5138
+2,1/09/2008,Canterbury Region,4692
+3,1/12/2008,Canterbury Region,4266
+4,1/03/2009,Canterbury Region,3501
+5,1/06/2009,Canterbury Region,3882
+6,1/09/2009,Canterbury Region,4535
+7,1/12/2009,Canterbury Region,4484
+8,1/03/2010,Canterbury Region,4276
+9,1/06/2010,Canterbury Region,4576
+10,1/09/2010,Canterbury Region,4024
+11,1/12/2010,Canterbury Region,4018
+12,1/03/2011,Canterbury Region,2810
+13,1/06/2011,Canterbury Region,3342
+14,1/09/2011,Canterbury Region,3681
+15,1/12/2011,Canterbury Region,4245
+16,1/03/2012,Canterbury Region,5222
+17,1/06/2012,Canterbury Region,5977
+18,1/09/2012,Canterbury Region,6848
+19,1/12/2012,Canterbury Region,5498
+20,1/03/2013,Canterbury Region,5838
+21,1/06/2013,Canterbury Region,7379
+22,1/09/2013,Canterbury Region,8273
+23,1/12/2013,Canterbury Region,7898
+24,1/03/2014,Canterbury Region,8843
+25,1/06/2014,Canterbury Region,9728
+26,1/09/2014,Canterbury Region,8322
+27,1/12/2014,Canterbury Region,9560
+28,1/03/2015,Canterbury Region,7502
+29,1/06/2015,Canterbury Region,7867
+30,1/09/2015,Canterbury Region,8354
+31,1/12/2015,Canterbury Region,7443
+32,1/03/2016,Canterbury Region,6204
+33,1/06/2016,Canterbury Region,8336
+34,1/09/2016,Canterbury Region,7111
+35,1/12/2016,Canterbury Region,6051
+36,1/03/2017,Canterbury Region,6168
+37,1/06/2017,Canterbury Region,6988
+38,1/09/2017,Canterbury Region,8557
+39,1/12/2017,Canterbury Region,7739
+40,1/03/2018,Canterbury Region,6127
+41,1/06/2018,Canterbury Region,9796
+42,1/09/2018,Canterbury Region,9988
+43,1/12/2018,Canterbury Region,10177
+0,1/03/2008,Gisborne Region,371
+1,1/06/2008,Gisborne Region,377
+2,1/09/2008,Gisborne Region,402
+3,1/12/2008,Gisborne Region,351
+4,1/03/2009,Gisborne Region,262
+5,1/06/2009,Gisborne Region,305
+6,1/09/2009,Gisborne Region,391
+7,1/12/2009,Gisborne Region,348
+8,1/03/2010,Gisborne Region,283
+9,1/06/2010,Gisborne Region,269
+10,1/09/2010,Gisborne Region,310
+11,1/12/2010,Gisborne Region,312
+12,1/03/2011,Gisborne Region,300
+13,1/06/2011,Gisborne Region,259
+14,1/09/2011,Gisborne Region,435
+15,1/12/2011,Gisborne Region,268
+16,1/03/2012,Gisborne Region,200
+17,1/06/2012,Gisborne Region,258
+18,1/09/2012,Gisborne Region,165
+19,1/12/2012,Gisborne Region,211
+20,1/03/2013,Gisborne Region,205
+21,1/06/2013,Gisborne Region,295
+22,1/09/2013,Gisborne Region,300
+23,1/12/2013,Gisborne Region,220
+24,1/03/2014,Gisborne Region,240
+25,1/06/2014,Gisborne Region,353
+26,1/09/2014,Gisborne Region,256
+27,1/12/2014,Gisborne Region,183
+28,1/03/2015,Gisborne Region,157
+29,1/06/2015,Gisborne Region,225
+30,1/09/2015,Gisborne Region,221
+31,1/12/2015,Gisborne Region,243
+32,1/03/2016,Gisborne Region,191
+33,1/06/2016,Gisborne Region,322
+34,1/09/2016,Gisborne Region,262
+35,1/12/2016,Gisborne Region,190
+36,1/03/2017,Gisborne Region,243
+37,1/06/2017,Gisborne Region,272
+38,1/09/2017,Gisborne Region,262
+39,1/12/2017,Gisborne Region,255
+40,1/03/2018,Gisborne Region,222
+41,1/06/2018,Gisborne Region,212
+42,1/09/2018,Gisborne Region,208
+43,1/12/2018,Gisborne Region,205
+0,1/03/2008,Hawke's Bay Region,1349
+1,1/06/2008,Hawke's Bay Region,1282
+2,1/09/2008,Hawke's Bay Region,1198
+3,1/12/2008,Hawke's Bay Region,939
+4,1/03/2009,Hawke's Bay Region,889
+5,1/06/2009,Hawke's Bay Region,1286
+6,1/09/2009,Hawke's Bay Region,1205
+7,1/12/2009,Hawke's Bay Region,1211
+8,1/03/2010,Hawke's Bay Region,1092
+9,1/06/2010,Hawke's Bay Region,1167
+10,1/09/2010,Hawke's Bay Region,1100
+11,1/12/2010,Hawke's Bay Region,948
+12,1/03/2011,Hawke's Bay Region,846
+13,1/06/2011,Hawke's Bay Region,882
+14,1/09/2011,Hawke's Bay Region,856
+15,1/12/2011,Hawke's Bay Region,946
+16,1/03/2012,Hawke's Bay Region,870
+17,1/06/2012,Hawke's Bay Region,1050
+18,1/09/2012,Hawke's Bay Region,1044
+19,1/12/2012,Hawke's Bay Region,1081
+20,1/03/2013,Hawke's Bay Region,791
+21,1/06/2013,Hawke's Bay Region,1212
+22,1/09/2013,Hawke's Bay Region,1036
+23,1/12/2013,Hawke's Bay Region,1037
+24,1/03/2014,Hawke's Bay Region,1067
+25,1/06/2014,Hawke's Bay Region,1193
+26,1/09/2014,Hawke's Bay Region,964
+27,1/12/2014,Hawke's Bay Region,854
+28,1/03/2015,Hawke's Bay Region,780
+29,1/06/2015,Hawke's Bay Region,1075
+30,1/09/2015,Hawke's Bay Region,949
+31,1/12/2015,Hawke's Bay Region,849
+32,1/03/2016,Hawke's Bay Region,907
+33,1/06/2016,Hawke's Bay Region,1178
+34,1/09/2016,Hawke's Bay Region,1074
+35,1/12/2016,Hawke's Bay Region,1048
+36,1/03/2017,Hawke's Bay Region,1063
+37,1/06/2017,Hawke's Bay Region,1239
+38,1/09/2017,Hawke's Bay Region,1278
+39,1/12/2017,Hawke's Bay Region,1098
+40,1/03/2018,Hawke's Bay Region,1069
+41,1/06/2018,Hawke's Bay Region,1016
+42,1/09/2018,Hawke's Bay Region,1014
+43,1/12/2018,Hawke's Bay Region,1013
+0,1/03/2008,Manawatu-Wanganui Region,1820
+1,1/06/2008,Manawatu-Wanganui Region,2044
+2,1/09/2008,Manawatu-Wanganui Region,1754
+3,1/12/2008,Manawatu-Wanganui Region,1466
+4,1/03/2009,Manawatu-Wanganui Region,1091
+5,1/06/2009,Manawatu-Wanganui Region,1418
+6,1/09/2009,Manawatu-Wanganui Region,1566
+7,1/12/2009,Manawatu-Wanganui Region,1429
+8,1/03/2010,Manawatu-Wanganui Region,1371
+9,1/06/2010,Manawatu-Wanganui Region,1533
+10,1/09/2010,Manawatu-Wanganui Region,1614
+11,1/12/2010,Manawatu-Wanganui Region,1131
+12,1/03/2011,Manawatu-Wanganui Region,1129
+13,1/06/2011,Manawatu-Wanganui Region,1322
+14,1/09/2011,Manawatu-Wanganui Region,1253
+15,1/12/2011,Manawatu-Wanganui Region,1057
+16,1/03/2012,Manawatu-Wanganui Region,1173
+17,1/06/2012,Manawatu-Wanganui Region,1311
+18,1/09/2012,Manawatu-Wanganui Region,1133
+19,1/12/2012,Manawatu-Wanganui Region,1208
+20,1/03/2013,Manawatu-Wanganui Region,994
+21,1/06/2013,Manawatu-Wanganui Region,1370
+22,1/09/2013,Manawatu-Wanganui Region,1103
+23,1/12/2013,Manawatu-Wanganui Region,1144
+24,1/03/2014,Manawatu-Wanganui Region,1062
+25,1/06/2014,Manawatu-Wanganui Region,1393
+26,1/09/2014,Manawatu-Wanganui Region,1199
+27,1/12/2014,Manawatu-Wanganui Region,1028
+28,1/03/2015,Manawatu-Wanganui Region,1111
+29,1/06/2015,Manawatu-Wanganui Region,1357
+30,1/09/2015,Manawatu-Wanganui Region,1294
+31,1/12/2015,Manawatu-Wanganui Region,1307
+32,1/03/2016,Manawatu-Wanganui Region,1134
+33,1/06/2016,Manawatu-Wanganui Region,1811
+34,1/09/2016,Manawatu-Wanganui Region,1701
+35,1/12/2016,Manawatu-Wanganui Region,1477
+36,1/03/2017,Manawatu-Wanganui Region,1510
+37,1/06/2017,Manawatu-Wanganui Region,1860
+38,1/09/2017,Manawatu-Wanganui Region,1931
+39,1/12/2017,Manawatu-Wanganui Region,1404
+40,1/03/2018,Manawatu-Wanganui Region,1828
+41,1/06/2018,Manawatu-Wanganui Region,1401
+42,1/09/2018,Manawatu-Wanganui Region,1402
+43,1/12/2018,Manawatu-Wanganui Region,1403
+0,1/03/2008,Marlborough Region,583
+1,1/06/2008,Marlborough Region,616
+2,1/09/2008,Marlborough Region,512
+3,1/12/2008,Marlborough Region,472
+4,1/03/2009,Marlborough Region,462
+5,1/06/2009,Marlborough Region,445
+6,1/09/2009,Marlborough Region,530
+7,1/12/2009,Marlborough Region,510
+8,1/03/2010,Marlborough Region,417
+9,1/06/2010,Marlborough Region,448
+10,1/09/2010,Marlborough Region,408
+11,1/12/2010,Marlborough Region,338
+12,1/03/2011,Marlborough Region,285
+13,1/06/2011,Marlborough Region,417
+14,1/09/2011,Marlborough Region,322
+15,1/12/2011,Marlborough Region,376
+16,1/03/2012,Marlborough Region,309
+17,1/06/2012,Marlborough Region,397
+18,1/09/2012,Marlborough Region,359
+19,1/12/2012,Marlborough Region,332
+20,1/03/2013,Marlborough Region,308
+21,1/06/2013,Marlborough Region,356
+22,1/09/2013,Marlborough Region,326
+23,1/12/2013,Marlborough Region,327
+24,1/03/2014,Marlborough Region,353
+25,1/06/2014,Marlborough Region,416
+26,1/09/2014,Marlborough Region,453
+27,1/12/2014,Marlborough Region,386
+28,1/03/2015,Marlborough Region,431
+29,1/06/2015,Marlborough Region,498
+30,1/09/2015,Marlborough Region,461
+31,1/12/2015,Marlborough Region,368
+32,1/03/2016,Marlborough Region,297
+33,1/06/2016,Marlborough Region,427
+34,1/09/2016,Marlborough Region,467
+35,1/12/2016,Marlborough Region,402
+36,1/03/2017,Marlborough Region,434
+37,1/06/2017,Marlborough Region,493
+38,1/09/2017,Marlborough Region,575
+39,1/12/2017,Marlborough Region,625
+40,1/03/2018,Marlborough Region,463
+41,1/06/2018,Marlborough Region,417
+42,1/09/2018,Marlborough Region,416
+43,1/12/2018,Marlborough Region,416
+0,1/03/2008,Nelson Region,537
+1,1/06/2008,Nelson Region,537
+2,1/09/2008,Nelson Region,458
+3,1/12/2008,Nelson Region,553
+4,1/03/2009,Nelson Region,323
+5,1/06/2009,Nelson Region,445
+6,1/09/2009,Nelson Region,427
+7,1/12/2009,Nelson Region,440
+8,1/03/2010,Nelson Region,607
+9,1/06/2010,Nelson Region,707
+10,1/09/2010,Nelson Region,614
+11,1/12/2010,Nelson Region,505
+12,1/03/2011,Nelson Region,382
+13,1/06/2011,Nelson Region,351
+14,1/09/2011,Nelson Region,491
+15,1/12/2011,Nelson Region,407
+16,1/03/2012,Nelson Region,492
+17,1/06/2012,Nelson Region,528
+18,1/09/2012,Nelson Region,399
+19,1/12/2012,Nelson Region,357
+20,1/03/2013,Nelson Region,380
+21,1/06/2013,Nelson Region,502
+22,1/09/2013,Nelson Region,396
+23,1/12/2013,Nelson Region,376
+24,1/03/2014,Nelson Region,302
+25,1/06/2014,Nelson Region,360
+26,1/09/2014,Nelson Region,354
+27,1/12/2014,Nelson Region,288
+28,1/03/2015,Nelson Region,245
+29,1/06/2015,Nelson Region,280
+30,1/09/2015,Nelson Region,386
+31,1/12/2015,Nelson Region,263
+32,1/03/2016,Nelson Region,291
+33,1/06/2016,Nelson Region,311
+34,1/09/2016,Nelson Region,452
+35,1/12/2016,Nelson Region,572
+36,1/03/2017,Nelson Region,411
+37,1/06/2017,Nelson Region,506
+38,1/09/2017,Nelson Region,454
+39,1/12/2017,Nelson Region,405
+40,1/03/2018,Nelson Region,443
+41,1/06/2018,Nelson Region,361
+42,1/09/2018,Nelson Region,357
+43,1/12/2018,Nelson Region,354
+0,1/03/2008,Northland Region,1463
+1,1/06/2008,Northland Region,1777
+2,1/09/2008,Northland Region,1772
+3,1/12/2008,Northland Region,1299
+4,1/03/2009,Northland Region,1015
+5,1/06/2009,Northland Region,1182
+6,1/09/2009,Northland Region,1137
+7,1/12/2009,Northland Region,1457
+8,1/03/2010,Northland Region,1212
+9,1/06/2010,Northland Region,1264
+10,1/09/2010,Northland Region,1318
+11,1/12/2010,Northland Region,1030
+12,1/03/2011,Northland Region,842
+13,1/06/2011,Northland Region,909
+14,1/09/2011,Northland Region,1080
+15,1/12/2011,Northland Region,949
+16,1/03/2012,Northland Region,1065
+17,1/06/2012,Northland Region,828
+18,1/09/2012,Northland Region,1021
+19,1/12/2012,Northland Region,1048
+20,1/03/2013,Northland Region,899
+21,1/06/2013,Northland Region,906
+22,1/09/2013,Northland Region,1099
+23,1/12/2013,Northland Region,1054
+24,1/03/2014,Northland Region,1079
+25,1/06/2014,Northland Region,908
+26,1/09/2014,Northland Region,1029
+27,1/12/2014,Northland Region,1223
+28,1/03/2015,Northland Region,912
+29,1/06/2015,Northland Region,1024
+30,1/09/2015,Northland Region,1438
+31,1/12/2015,Northland Region,1385
+32,1/03/2016,Northland Region,1229
+33,1/06/2016,Northland Region,1601
+34,1/09/2016,Northland Region,1650
+35,1/12/2016,Northland Region,1728
+36,1/03/2017,Northland Region,1627
+37,1/06/2017,Northland Region,1682
+38,1/09/2017,Northland Region,1733
+39,1/12/2017,Northland Region,1457
+40,1/03/2018,Northland Region,1577
+41,1/06/2018,Northland Region,1366
+42,1/09/2018,Northland Region,1372
+43,1/12/2018,Northland Region,1379
+0,1/03/2008,Otago Region,2264
+1,1/06/2008,Otago Region,2350
+2,1/09/2008,Otago Region,2258
+3,1/12/2008,Otago Region,2077
+4,1/03/2009,Otago Region,1650
+5,1/06/2009,Otago Region,1927
+6,1/09/2009,Otago Region,2136
+7,1/12/2009,Otago Region,2270
+8,1/03/2010,Otago Region,1845
+9,1/06/2010,Otago Region,2188
+10,1/09/2010,Otago Region,1946
+11,1/12/2010,Otago Region,2001
+12,1/03/2011,Otago Region,1768
+13,1/06/2011,Otago Region,2127
+14,1/09/2011,Otago Region,2119
+15,1/12/2011,Otago Region,1889
+16,1/03/2012,Otago Region,2039
+17,1/06/2012,Otago Region,2560
+18,1/09/2012,Otago Region,1896
+19,1/12/2012,Otago Region,2171
+20,1/03/2013,Otago Region,1819
+21,1/06/2013,Otago Region,2669
+22,1/09/2013,Otago Region,2393
+23,1/12/2013,Otago Region,2203
+24,1/03/2014,Otago Region,1935
+25,1/06/2014,Otago Region,2655
+26,1/09/2014,Otago Region,2489
+27,1/12/2014,Otago Region,2303
+28,1/03/2015,Otago Region,1867
+29,1/06/2015,Otago Region,2573
+30,1/09/2015,Otago Region,2397
+31,1/12/2015,Otago Region,2561
+32,1/03/2016,Otago Region,2263
+33,1/06/2016,Otago Region,2962
+34,1/09/2016,Otago Region,3079
+35,1/12/2016,Otago Region,2670
+36,1/03/2017,Otago Region,2921
+37,1/06/2017,Otago Region,3045
+38,1/09/2017,Otago Region,3653
+39,1/12/2017,Otago Region,3087
+40,1/03/2018,Otago Region,2491
+41,1/06/2018,Otago Region,2840
+42,1/09/2018,Otago Region,2866
+43,1/12/2018,Otago Region,2893
+0,1/03/2008,Southland Region,907
+1,1/06/2008,Southland Region,1015
+2,1/09/2008,Southland Region,999
+3,1/12/2008,Southland Region,941
+4,1/03/2009,Southland Region,691
+5,1/06/2009,Southland Region,813
+6,1/09/2009,Southland Region,828
+7,1/12/2009,Southland Region,765
+8,1/03/2010,Southland Region,697
+9,1/06/2010,Southland Region,903
+10,1/09/2010,Southland Region,806
+11,1/12/2010,Southland Region,741
+12,1/03/2011,Southland Region,597
+13,1/06/2011,Southland Region,699
+14,1/09/2011,Southland Region,698
+15,1/12/2011,Southland Region,640
+16,1/03/2012,Southland Region,594
+17,1/06/2012,Southland Region,665
+18,1/09/2012,Southland Region,830
+19,1/12/2012,Southland Region,654
+20,1/03/2013,Southland Region,461
+21,1/06/2013,Southland Region,741
+22,1/09/2013,Southland Region,537
+23,1/12/2013,Southland Region,615
+24,1/03/2014,Southland Region,485
+25,1/06/2014,Southland Region,647
+26,1/09/2014,Southland Region,639
+27,1/12/2014,Southland Region,566
+28,1/03/2015,Southland Region,558
+29,1/06/2015,Southland Region,588
+30,1/09/2015,Southland Region,827
+31,1/12/2015,Southland Region,610
+32,1/03/2016,Southland Region,408
+33,1/06/2016,Southland Region,686
+34,1/09/2016,Southland Region,633
+35,1/12/2016,Southland Region,678
+36,1/03/2017,Southland Region,475
+37,1/06/2017,Southland Region,624
+38,1/09/2017,Southland Region,611
+39,1/12/2017,Southland Region,655
+40,1/03/2018,Southland Region,555
+41,1/06/2018,Southland Region,530
+42,1/09/2018,Southland Region,522
+43,1/12/2018,Southland Region,514
+0,1/03/2008,Taranaki Region,863
+1,1/06/2008,Taranaki Region,1279
+2,1/09/2008,Taranaki Region,937
+3,1/12/2008,Taranaki Region,837
+4,1/03/2009,Taranaki Region,820
+5,1/06/2009,Taranaki Region,1012
+6,1/09/2009,Taranaki Region,1072
+7,1/12/2009,Taranaki Region,1043
+8,1/03/2010,Taranaki Region,1047
+9,1/06/2010,Taranaki Region,1095
+10,1/09/2010,Taranaki Region,1081
+11,1/12/2010,Taranaki Region,958
+12,1/03/2011,Taranaki Region,710
+13,1/06/2011,Taranaki Region,888
+14,1/09/2011,Taranaki Region,790
+15,1/12/2011,Taranaki Region,723
+16,1/03/2012,Taranaki Region,690
+17,1/06/2012,Taranaki Region,819
+18,1/09/2012,Taranaki Region,714
+19,1/12/2012,Taranaki Region,769
+20,1/03/2013,Taranaki Region,734
+21,1/06/2013,Taranaki Region,896
+22,1/09/2013,Taranaki Region,859
+23,1/12/2013,Taranaki Region,808
+24,1/03/2014,Taranaki Region,720
+25,1/06/2014,Taranaki Region,916
+26,1/09/2014,Taranaki Region,750
+27,1/12/2014,Taranaki Region,901
+28,1/03/2015,Taranaki Region,797
+29,1/06/2015,Taranaki Region,787
+30,1/09/2015,Taranaki Region,759
+31,1/12/2015,Taranaki Region,890
+32,1/03/2016,Taranaki Region,752
+33,1/06/2016,Taranaki Region,857
+34,1/09/2016,Taranaki Region,906
+35,1/12/2016,Taranaki Region,917
+36,1/03/2017,Taranaki Region,799
+37,1/06/2017,Taranaki Region,952
+38,1/09/2017,Taranaki Region,967
+39,1/12/2017,Taranaki Region,796
+40,1/03/2018,Taranaki Region,739
+41,1/06/2018,Taranaki Region,788
+42,1/09/2018,Taranaki Region,783
+43,1/12/2018,Taranaki Region,779
+0,1/03/2008,Tasman Region,353
+1,1/06/2008,Tasman Region,623
+2,1/09/2008,Tasman Region,446
+3,1/12/2008,Tasman Region,517
+4,1/03/2009,Tasman Region,391
+5,1/06/2009,Tasman Region,488
+6,1/09/2009,Tasman Region,520
+7,1/12/2009,Tasman Region,502
+8,1/03/2010,Tasman Region,408
+9,1/06/2010,Tasman Region,484
+10,1/09/2010,Tasman Region,554
+11,1/12/2010,Tasman Region,528
+12,1/03/2011,Tasman Region,430
+13,1/06/2011,Tasman Region,455
+14,1/09/2011,Tasman Region,528
+15,1/12/2011,Tasman Region,412
+16,1/03/2012,Tasman Region,427
+17,1/06/2012,Tasman Region,467
+18,1/09/2012,Tasman Region,532
+19,1/12/2012,Tasman Region,495
+20,1/03/2013,Tasman Region,394
+21,1/06/2013,Tasman Region,609
+22,1/09/2013,Tasman Region,461
+23,1/12/2013,Tasman Region,480
+24,1/03/2014,Tasman Region,355
+25,1/06/2014,Tasman Region,490
+26,1/09/2014,Tasman Region,496
+27,1/12/2014,Tasman Region,398
+28,1/03/2015,Tasman Region,453
+29,1/06/2015,Tasman Region,486
+30,1/09/2015,Tasman Region,520
+31,1/12/2015,Tasman Region,472
+32,1/03/2016,Tasman Region,463
+33,1/06/2016,Tasman Region,500
+34,1/09/2016,Tasman Region,526
+35,1/12/2016,Tasman Region,508
+36,1/03/2017,Tasman Region,452
+37,1/06/2017,Tasman Region,617
+38,1/09/2017,Tasman Region,606
+39,1/12/2017,Tasman Region,459
+40,1/03/2018,Tasman Region,561
+41,1/06/2018,Tasman Region,506
+42,1/09/2018,Tasman Region,507
+43,1/12/2018,Tasman Region,509
+0,1/03/2008,Waikato Region,3796
+1,1/06/2008,Waikato Region,4231
+2,1/09/2008,Waikato Region,3762
+3,1/12/2008,Waikato Region,3388
+4,1/03/2009,Waikato Region,2382
+5,1/06/2009,Waikato Region,2861
+6,1/09/2009,Waikato Region,3540
+7,1/12/2009,Waikato Region,3432
+8,1/03/2010,Waikato Region,2931
+9,1/06/2010,Waikato Region,3328
+10,1/09/2010,Waikato Region,3295
+11,1/12/2010,Waikato Region,2949
+12,1/03/2011,Waikato Region,2129
+13,1/06/2011,Waikato Region,2785
+14,1/09/2011,Waikato Region,3189
+15,1/12/2011,Waikato Region,2736
+16,1/03/2012,Waikato Region,2461
+17,1/06/2012,Waikato Region,2817
+18,1/09/2012,Waikato Region,2770
+19,1/12/2012,Waikato Region,2881
+20,1/03/2013,Waikato Region,2554
+21,1/06/2013,Waikato Region,3320
+22,1/09/2013,Waikato Region,3398
+23,1/12/2013,Waikato Region,3393
+24,1/03/2014,Waikato Region,3095
+25,1/06/2014,Waikato Region,3972
+26,1/09/2014,Waikato Region,3381
+27,1/12/2014,Waikato Region,3214
+28,1/03/2015,Waikato Region,2976
+29,1/06/2015,Waikato Region,3878
+30,1/09/2015,Waikato Region,4319
+31,1/12/2015,Waikato Region,4225
+32,1/03/2016,Waikato Region,3706
+33,1/06/2016,Waikato Region,4743
+34,1/09/2016,Waikato Region,4765
+35,1/12/2016,Waikato Region,4189
+36,1/03/2017,Waikato Region,3944
+37,1/06/2017,Waikato Region,4904
+38,1/09/2017,Waikato Region,5046
+39,1/12/2017,Waikato Region,4016
+40,1/03/2018,Waikato Region,3926
+41,1/06/2018,Waikato Region,4316
+42,1/09/2018,Waikato Region,4359
+43,1/12/2018,Waikato Region,4402
+0,1/03/2008,Wellington Region,3273
+1,1/06/2008,Wellington Region,4908
+2,1/09/2008,Wellington Region,4832
+3,1/12/2008,Wellington Region,3019
+4,1/03/2009,Wellington Region,2980
+5,1/06/2009,Wellington Region,2872
+6,1/09/2009,Wellington Region,2752
+7,1/12/2009,Wellington Region,3428
+8,1/03/2010,Wellington Region,2691
+9,1/06/2010,Wellington Region,3449
+10,1/09/2010,Wellington Region,3028
+11,1/12/2010,Wellington Region,3088
+12,1/03/2011,Wellington Region,2605
+13,1/06/2011,Wellington Region,2523
+14,1/09/2011,Wellington Region,2820
+15,1/12/2011,Wellington Region,3297
+16,1/03/2012,Wellington Region,2742
+17,1/06/2012,Wellington Region,2950
+18,1/09/2012,Wellington Region,2959
+19,1/12/2012,Wellington Region,2827
+20,1/03/2013,Wellington Region,2737
+21,1/06/2013,Wellington Region,3767
+22,1/09/2013,Wellington Region,3646
+23,1/12/2013,Wellington Region,3801
+24,1/03/2014,Wellington Region,2993
+25,1/06/2014,Wellington Region,3355
+26,1/09/2014,Wellington Region,3564
+27,1/12/2014,Wellington Region,3200
+28,1/03/2015,Wellington Region,3177
+29,1/06/2015,Wellington Region,2969
+30,1/09/2015,Wellington Region,3199
+31,1/12/2015,Wellington Region,3555
+32,1/03/2016,Wellington Region,2665
+33,1/06/2016,Wellington Region,3828
+34,1/09/2016,Wellington Region,4147
+35,1/12/2016,Wellington Region,3898
+36,1/03/2017,Wellington Region,2997
+37,1/06/2017,Wellington Region,4331
+38,1/09/2017,Wellington Region,4790
+39,1/12/2017,Wellington Region,3672
+40,1/03/2018,Wellington Region,3986
+41,1/06/2018,Wellington Region,3696
+42,1/09/2018,Wellington Region,3714
+43,1/12/2018,Wellington Region,3732
+0,1/03/2008,West Coast Region,566
+1,1/06/2008,West Coast Region,895
+2,1/09/2008,West Coast Region,583
+3,1/12/2008,West Coast Region,458
+4,1/03/2009,West Coast Region,323
+5,1/06/2009,West Coast Region,552
+6,1/09/2009,West Coast Region,503
+7,1/12/2009,West Coast Region,419
+8,1/03/2010,West Coast Region,448
+9,1/06/2010,West Coast Region,596
+10,1/09/2010,West Coast Region,494
+11,1/12/2010,West Coast Region,384
+12,1/03/2011,West Coast Region,462
+13,1/06/2011,West Coast Region,573
+14,1/09/2011,West Coast Region,438
+15,1/12/2011,West Coast Region,321
+16,1/03/2012,West Coast Region,468
+17,1/06/2012,West Coast Region,407
+18,1/09/2012,West Coast Region,421
+19,1/12/2012,West Coast Region,231
+20,1/03/2013,West Coast Region,302
+21,1/06/2013,West Coast Region,395
+22,1/09/2013,West Coast Region,315
+23,1/12/2013,West Coast Region,318
+24,1/03/2014,West Coast Region,293
+25,1/06/2014,West Coast Region,325
+26,1/09/2014,West Coast Region,278
+27,1/12/2014,West Coast Region,200
+28,1/03/2015,West Coast Region,263
+29,1/06/2015,West Coast Region,395
+30,1/09/2015,West Coast Region,254
+31,1/12/2015,West Coast Region,204
+32,1/03/2016,West Coast Region,206
+33,1/06/2016,West Coast Region,407
+34,1/09/2016,West Coast Region,278
+35,1/12/2016,West Coast Region,223
+36,1/03/2017,West Coast Region,318
+37,1/06/2017,West Coast Region,396
+38,1/09/2017,West Coast Region,339
+39,1/12/2017,West Coast Region,224
+40,1/03/2018,West Coast Region,252
+41,1/06/2018,West Coast Region,220
+42,1/09/2018,West Coast Region,212
+43,1/12/2018,West Coast Region,203
